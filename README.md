@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gidavies/MSLearn%20Space%20Game/_apis/build/status/gidavies.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/gidavies/MSLearn%20Space%20Game/_build/latest?definitionId=194&branchName=master)
 
 # Contributing
 
